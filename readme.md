@@ -31,6 +31,7 @@ http://localhost/YOUR-LARAVEL-PROJECT-NAME/public/admin/login
 ```
 E-Mail : muh.kusnadi99@gmail.com 
 Password : secret
+
 2. USERS
 ```sh
 http://localhost/YOUR-LARAVEL-PROJECT-NAME/public/login
@@ -39,8 +40,8 @@ http://localhost/YOUR-LARAVEL-PROJECT-NAME/public/login
 User1
 Username : 	user1@gmail.com
 Password : 12345678
-User2
 
+User2
 Username : 	user1@gmail.com
 Password : 12345678
 
