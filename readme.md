@@ -38,10 +38,12 @@ http://localhost/YOUR-LARAVEL-PROJECT-NAME/public/login
 ```
 
 User1
+
 Username : 	user1@gmail.com
 Password : 12345678
 
 User2
+
 Username : 	user1@gmail.com
 Password : 12345678
 
